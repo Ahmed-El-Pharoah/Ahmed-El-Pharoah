@@ -1,20 +1,17 @@
 <h1 align="center">👋 Hi, I'm Ahmed Hamdi</h1>
+<h3 align="center">Junior Front-End Engineer 💻 | Creative Learner 📚 | Passionate About Web Experiences 🌐</h3>
 
 <p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif" alt="Coding animation">
 </p>
 
-<p align="center">
-  🚀 Junior Front-End Engineer | Passionate about crafting clean, creative, and user-friendly web experiences
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 I’ve learned **HTML**, **Python**, and **Java**
-- 💻 Currently growing as a **Front-End Engineer**
-- 🎯 My goal: to build interfaces that feel both **functional** and **artistic**
-- ✨ I believe in blending **logic** with **creativity** to make technology inspiring
+- 🌱 Learned **HTML**, **Python**, and **Java**
+- 🚀 Growing as a **Front-End Engineer**
+- 🎯 My mission: build interfaces that are **functional, creative, and inspiring**
+- ✨ I believe code is more than logic—it’s a form of **art**
 
 ---
 
@@ -31,22 +28,16 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a>
-  <a href="https://medium.com/@YOUR_MEDIUM" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
-  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/@AhmedHamdi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/Ahmed%20Hamdi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-My_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://YOUR_WEBSITE.com"><img src="https://img.shields.io/badge/Website-MyPortfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
 ### ✨ Fun Fact
-> *“Code is like poetry—every line should have rhythm, meaning, and beauty.”*
+> *“Every line of code is a brushstroke on the canvas of the web.”*
+
 
