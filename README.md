@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Ahmed Hamdi</h1>
+h1 align="center">👋 Hi, I'm Ahmed Hamdi</h1>
 <h3 align="center">Junior Front-End Engineer 💻 | Creative Learner 📚 | Passionate About Web Experiences 🌐</h3>
 
 <p align="center">
@@ -35,9 +35,12 @@
   <a href="https://YOUR_WEBSITE.com"><img src="https://img.shields.io/badge/Website-MyPortfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
----
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> </p>
 
-### ✨ Fun Fact
-> *“Every line of code is a brushstroke on the canvas of the web.”*
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,java,github,vscode,figma,git,bash" /> </p>
+
+
+
+
 
 
